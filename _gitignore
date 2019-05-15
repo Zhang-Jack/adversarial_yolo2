@@ -1,0 +1,8 @@
+*.pyc
+*.swp
+*.log
+*.jpg
+*.bk
+*.o
+*.so
+backup/
